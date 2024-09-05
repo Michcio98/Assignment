@@ -1,0 +1,4 @@
+  #Code Book
+subject - id of subject performing the activity
+activity - type of activity
+variables for mean and standard deviation
